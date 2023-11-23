@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @caitlinhnz aka caitlin
 - 👀 I’m interested in computer science, cybersecurity and gaming
 - 🌱 I’m currently very new to this learning  
-- 💞️ I’m looking to collaborate not sure yet
+- 💞️ I’m looking to collaborate on ... not sure yet
 - 📫 You can reach me via my email: caitlinhnz@gmail.com
 
 <!---
